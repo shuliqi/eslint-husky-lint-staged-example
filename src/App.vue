@@ -10,6 +10,9 @@ export default {
   name: 'App',
   components: {
     HelloWorld
+  },
+  setup() {
+    console.log("asdas");
   }
 }
 </script>
